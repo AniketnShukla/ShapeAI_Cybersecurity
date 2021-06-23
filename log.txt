@@ -1,0 +1,77 @@
+----------------------------------------------------------------
+Weather Stats for - BANGALORE || 23 Jun 2021 | 04:22:03 PM
+----------------------------------------------------------------
+Current temperature is: 29.47 deg C
+Current weather desc   : scattered clouds
+Current Humidity       : 47 %
+Current wind speed     : 3.09 kmph
+----------------------------------------------------------------
+Weather Stats for - NEW YORK || 23 Jun 2021 | 04:22:24 PM
+----------------------------------------------------------------
+Current temperature is: 12.59 deg C
+Current weather desc   : clear sky
+Current Humidity       : 75 %
+Current wind speed     : 0.45 kmph
+----------------------------------------------------------------
+Weather Stats for - MOSCOW || 23 Jun 2021 | 04:22:44 PM
+----------------------------------------------------------------
+Current temperature is: 32.61 deg C
+Current weather desc   : few clouds
+Current Humidity       : 32 %
+Current wind speed     : 2.74 kmph
+----------------------------------------------------------------
+Weather Stats for - DELHI || 23 Jun 2021 | 04:23:54 PM
+----------------------------------------------------------------
+Current temperature is: 40.05 deg C
+Current weather desc   : haze
+Current Humidity       : 27 %
+Current wind speed     : 2.06 kmph
+----------------------------------------------------------------
+Weather Stats for - DELHI || 23 Jun 2021 | 04:23:54 PM
+----------------------------------------------------------------
+Current temperature is: 40.05 deg C
+Current weather desc   : haze
+Current Humidity       : 27 %
+Current wind speed     : 2.06 kmph
+----------------------------------------------------------------
+Weather Stats for - KOLKATA || 23 Jun 2021 | 04:24:12 PM
+----------------------------------------------------------------
+Current temperature is: 30.97 deg C
+Current weather desc   : haze
+Current Humidity       : 89 %
+Current wind speed     : 2.57 kmph
+----------------------------------------------------------------
+Weather Stats for - KOLKATA || 23 Jun 2021 | 04:24:12 PM
+----------------------------------------------------------------
+Current temperature is: 30.97 deg C
+Current weather desc   : haze
+Current Humidity       : 89 %
+Current wind speed     : 2.57 kmph
+----------------------------------------------------------------
+Weather Stats for - OOTY || 23 Jun 2021 | 04:27:38 PM
+----------------------------------------------------------------
+Current temperature is: 20.07 deg C
+Current weather desc   : overcast clouds
+Current Humidity       : 73 %
+Current wind speed     : 2.23 kmph
+----------------------------------------------------------------
+Weather Stats for - OOTY || 23 Jun 2021 | 04:27:38 PM
+----------------------------------------------------------------
+Current temperature is: 20.07 deg C
+Current weather desc   : overcast clouds
+Current Humidity       : 73 %
+Current wind speed     : 2.23 kmph
+----------------------------------------------------------------
+Weather Stats for - DELHI || 23 Jun 2021 | 04:28:42 PM
+----------------------------------------------------------------
+Current temperature is: 40.05 deg C
+Current weather desc   : haze
+Current Humidity       : 27 %
+Current wind speed     : 1.54 kmph
+----------------------------------------------------------------
+Weather Stats for - DELHI || 23 Jun 2021 | 04:28:42 PM
+----------------------------------------------------------------
+Current temperature is: 40.05 deg C
+Current weather desc   : haze
+Current Humidity       : 27 %
+Current wind speed     : 1.54 kmph
